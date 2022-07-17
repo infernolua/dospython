@@ -1,2 +1,3 @@
 # Это досилка на питоне
-# хаха
+# Its dosilka on python
+# modules: requests, thearding
